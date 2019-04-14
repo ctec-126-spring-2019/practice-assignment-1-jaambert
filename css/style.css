@@ -5,3 +5,8 @@ body {
     margin: 0;
     padding: 0;
 }
+
+h1 {font-size: x-large;
+    color: #d13f13;}
+
+li  {list-style-type: square;}
